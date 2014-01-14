@@ -1,0 +1,1 @@
+Just a project im starting (my first project). Its about creating a game written in batch. I know theres other languages better (C++, etc.)but i prefer Batch(mostly because its the only language i know.
